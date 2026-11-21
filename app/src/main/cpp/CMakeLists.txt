@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.1)
+project(deviceparts LANGUAGES CXX)
+add_library(deviceparts SHARED deviceparts.cpp)
+target_compile_features(deviceparts PRIVATE cxx_std_17)
+target_compile_options(deviceparts PRIVATE -Wall -Wextra -Werror)

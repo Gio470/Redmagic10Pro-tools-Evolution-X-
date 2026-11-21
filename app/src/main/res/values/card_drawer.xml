@@ -1,0 +1,7 @@
+<resources>
+    <style name="ThemeOverlay.RedMagic.CardDrawer" parent="ThemeOverlay.Material3.BottomSheetDialog">
+        <item name="enableEdgeToEdge">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+    </style>
+</resources>

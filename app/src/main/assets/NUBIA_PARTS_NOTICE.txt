@@ -1,0 +1,5 @@
+NubiaParts adaptations for Redmagic Tools
+Source: https://github.com/devnotcc/android_device_nubia_nx789j/tree/9b7ebb3bcce467091fa8922b476b920f9053664d/NubiaParts
+Copyright The LineageOS Project, licensed under Apache License 2.0.
+Thermal profiles and tuning data are reproduced from NubiaParts. Ambient display, performance, charging and fan policies have been adapted for a root app with its own UI and lifecycle.
+The Apache License 2.0 is included in NUBIA_PARTS_LICENSE.txt.

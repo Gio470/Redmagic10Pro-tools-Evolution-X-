@@ -1,0 +1,282 @@
+{
+  "balanced": [
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq",
+      "value": "384000"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/scaling_min_freq",
+      "value": "1017600"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/walt/hispeed_freq",
+      "value": "1344000"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/walt/hispeed_freq",
+      "value": "2380800"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/walt/hispeed_load",
+      "value": "90"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/walt/hispeed_load",
+      "value": "90"
+    },
+    {
+      "path": "/proc/sys/walt/sched_downmigrate",
+      "value": "65"
+    },
+    {
+      "path": "/proc/sys/walt/sched_upmigrate",
+      "value": "95"
+    },
+    {
+      "path": "/proc/sys/walt/sched_downmigrate",
+      "value": "85"
+    },
+    {
+      "path": "/proc/sys/walt/input_boost/input_boost_freq",
+      "value": "864000 0 0 0 0 0 0 0"
+    },
+    {
+      "path": "/proc/sys/walt/input_boost/input_boost_ms",
+      "value": "100"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpu0/core_ctl/min_cpus",
+      "value": "4"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpu6/core_ctl/min_cpus",
+      "value": "0"
+    },
+    {
+      "path": "/sys/class/kgsl/kgsl-3d0/min_pwrlevel",
+      "value": "14"
+    },
+    {
+      "path": "/sys/class/kgsl/kgsl-3d0/idle_timer",
+      "value": "80"
+    },
+    {
+      "path": "/sys/devices/system/cpu/bus_dcvs/DDR/boost_freq",
+      "value": "547000"
+    },
+    {
+      "path": "/sys/devices/system/cpu/bus_dcvs/LLCC/boost_freq",
+      "value": "350000"
+    }
+  ],
+  "performance": [
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq",
+      "value": "960000"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/scaling_min_freq",
+      "value": "1401600"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/walt/hispeed_freq",
+      "value": "1785600"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/walt/hispeed_freq",
+      "value": "2841600"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/walt/hispeed_load",
+      "value": "80"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/walt/hispeed_load",
+      "value": "80"
+    },
+    {
+      "path": "/proc/sys/walt/sched_downmigrate",
+      "value": "65"
+    },
+    {
+      "path": "/proc/sys/walt/sched_upmigrate",
+      "value": "85"
+    },
+    {
+      "path": "/proc/sys/walt/sched_downmigrate",
+      "value": "75"
+    },
+    {
+      "path": "/proc/sys/walt/input_boost/input_boost_freq",
+      "value": "1363200 0 0 0 0 0 1689600 0"
+    },
+    {
+      "path": "/proc/sys/walt/input_boost/input_boost_ms",
+      "value": "120"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpu0/core_ctl/min_cpus",
+      "value": "4"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpu6/core_ctl/min_cpus",
+      "value": "2"
+    },
+    {
+      "path": "/sys/class/kgsl/kgsl-3d0/min_pwrlevel",
+      "value": "11"
+    },
+    {
+      "path": "/sys/class/kgsl/kgsl-3d0/idle_timer",
+      "value": "80"
+    },
+    {
+      "path": "/sys/devices/system/cpu/bus_dcvs/DDR/boost_freq",
+      "value": "1353000"
+    },
+    {
+      "path": "/sys/devices/system/cpu/bus_dcvs/LLCC/boost_freq",
+      "value": "533000"
+    }
+  ],
+  "extreme": [
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq",
+      "value": "1555200"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/scaling_min_freq",
+      "value": "2246400"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/walt/hispeed_freq",
+      "value": "2400000"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/walt/hispeed_freq",
+      "value": "3513600"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/walt/hispeed_load",
+      "value": "70"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/walt/hispeed_load",
+      "value": "70"
+    },
+    {
+      "path": "/proc/sys/walt/sched_downmigrate",
+      "value": "65"
+    },
+    {
+      "path": "/proc/sys/walt/sched_upmigrate",
+      "value": "75"
+    },
+    {
+      "path": "/proc/sys/walt/sched_downmigrate",
+      "value": "65"
+    },
+    {
+      "path": "/proc/sys/walt/input_boost/input_boost_freq",
+      "value": "1996800 0 0 0 0 0 2649600 0"
+    },
+    {
+      "path": "/proc/sys/walt/input_boost/input_boost_ms",
+      "value": "200"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpu0/core_ctl/min_cpus",
+      "value": "4"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpu6/core_ctl/min_cpus",
+      "value": "2"
+    },
+    {
+      "path": "/sys/class/kgsl/kgsl-3d0/min_pwrlevel",
+      "value": "9"
+    },
+    {
+      "path": "/sys/class/kgsl/kgsl-3d0/idle_timer",
+      "value": "200"
+    },
+    {
+      "path": "/sys/devices/system/cpu/bus_dcvs/DDR/boost_freq",
+      "value": "2092000"
+    },
+    {
+      "path": "/sys/devices/system/cpu/bus_dcvs/LLCC/boost_freq",
+      "value": "806000"
+    }
+  ],
+  "ultra": [
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq",
+      "value": "3532800"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/scaling_min_freq",
+      "value": "4473600"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/walt/hispeed_freq",
+      "value": "2400000"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/walt/hispeed_freq",
+      "value": "3513600"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy0/walt/hispeed_load",
+      "value": "70"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpufreq/policy6/walt/hispeed_load",
+      "value": "70"
+    },
+    {
+      "path": "/proc/sys/walt/sched_downmigrate",
+      "value": "65"
+    },
+    {
+      "path": "/proc/sys/walt/sched_upmigrate",
+      "value": "75"
+    },
+    {
+      "path": "/proc/sys/walt/sched_downmigrate",
+      "value": "65"
+    },
+    {
+      "path": "/proc/sys/walt/input_boost/input_boost_freq",
+      "value": "1996800 0 0 0 0 0 2649600 0"
+    },
+    {
+      "path": "/proc/sys/walt/input_boost/input_boost_ms",
+      "value": "200"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpu0/core_ctl/min_cpus",
+      "value": "6"
+    },
+    {
+      "path": "/sys/devices/system/cpu/cpu6/core_ctl/min_cpus",
+      "value": "2"
+    },
+    {
+      "path": "/sys/class/kgsl/kgsl-3d0/min_pwrlevel",
+      "value": "0"
+    },
+    {
+      "path": "/sys/class/kgsl/kgsl-3d0/idle_timer",
+      "value": "200"
+    },
+    {
+      "path": "/sys/devices/system/cpu/bus_dcvs/DDR/boost_freq",
+      "value": "4761000"
+    },
+    {
+      "path": "/sys/devices/system/cpu/bus_dcvs/LLCC/boost_freq",
+      "value": "1211000"
+    }
+  ]
+}
